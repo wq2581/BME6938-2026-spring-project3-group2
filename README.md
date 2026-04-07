@@ -135,9 +135,9 @@ Key observations:
 
 | Member | Contributions |
 |--------|---------------|
-| **Jialu Liang** | Data preprocessing pipeline, RNN/LSTM baseline model implementation, EDA notebook, training curve analysis |
+| **Jialu Liang** | RNN/LSTM baseline model implementation, EDA notebook, training curve analysis |
 | **Qing Wang** | BioBERT transformer fine-tuning, evaluation framework, demo notebook, error analysis and visualization |
-| **Benjamin Tondre** | Literature review, report writing, results documentation |
+| **Benjamin Tondre** | Data preprocessing pipeline, Literature review, report writing, results documentation |
 
 ## References
 
