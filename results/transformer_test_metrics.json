@@ -1,0 +1,13 @@
+{
+  "train_loss": 0.27846333292855924,
+  "test_metrics": {
+    "test_loss": 0.3873673677444458,
+    "test_accuracy": 0.8688214213266617,
+    "test_precision": 0.820987020100574,
+    "test_recall": 0.8028100211026858,
+    "test_f1": 0.8053528684455422,
+    "test_runtime": 23.0987,
+    "test_samples_per_second": 1280.505,
+    "test_steps_per_second": 20.044
+  }
+}
